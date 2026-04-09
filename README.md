@@ -4,7 +4,8 @@ A simple and functional **Salary & Expense Tracker** built using **HTML, CSS, an
 This project demonstrates core concepts like DOM manipulation, event handling, and data persistence using localStorage.
 
 **Live website link:**
-storied-marigold-eb2977.netlify.app
+https://storied-marigold-eb2977.netlify.app/
+
 
 **Screenshots:**
 <img width="1468" height="902" alt="image" src="https://github.com/user-attachments/assets/1cb7bf30-0402-4f7b-be80-931d1f7a63cd" />
